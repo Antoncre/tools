@@ -1,5 +1,8 @@
+# This type of conversion comes handy when you need to convert values
+# from ACR122U to format that is read by ACR1281U-C2 and vice-versa
+# Can also have many other use cases
 
-# converts little-endian to hex
+# Converts little-endian to hex
 def to_hex(little_endian: int):
     two_digits = ''
     hex_ = ''
