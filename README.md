@@ -2,7 +2,8 @@
 Useful tools for python applications
 
 ## csv_fill.py
-The funciton will create a csv file with randomly generated values in a following structure: todays_date, number, random_set_of_characters
+The funciton will create a csv file with randomly generated values in a following structure: [todays_date, number, random_set_of_characters]
+
 I am using this function to test behavior of my Finances application when there are too many elements to display
 
 Usage:
