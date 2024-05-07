@@ -2,8 +2,8 @@ import string
 import random
 from datetime import date, timedelta, datetime
 
-# This function is to randomly fill date, price and description in Finances application (also available on my GitHub)
-
+# This function will randomly fill date, price and description in Finances application (also available on my GitHub)
+# https://github.com/Antoncre/Finances
 
 def fill_csv(line_num: int, filename: str):
     for el in range(line_num):
